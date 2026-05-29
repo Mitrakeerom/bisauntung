@@ -1,2 +1,1 @@
-# bisauntung
-Core framework bisauntung.com
+bisauntung.com
